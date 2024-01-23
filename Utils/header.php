@@ -33,10 +33,10 @@
             <li class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown">Fournisseurs</a>
               <ul class="dropdown-menu">
-                <li><a href="?controller=fournisseurs&action=all_fournisseurs" class="dropdown-item"></a>Tout les fournisseurs</li>
+                <li><a href="?controller=fournisseurs&action=all_fournisseurs" class="dropdown-item">Tout les fournisseurs</a></li>
                 <li><a href="?controller=fournisseurs&action=fournisseurs_par_raison_sociale" class="dropdown-item">Par Raison Sociale</a></li>
-                <li><a href="?controller=fournisseurs&action=fournisseurs_par_localite" class="dropdown-item"></a>Par Localite</li>
-                <li><a href="?controller=fournisseurs&action=fournisseurs_par_pays" class="dropdown-item"></a>Par Pays</li>
+                <li><a href="?controller=fournisseurs&action=fournisseurs_par_localite" class="dropdown-item">Par Localite</a></li>
+                <li><a href="?controller=fournisseurs&action=fournisseurs_par_pays" class="dropdown-item">Par Pays</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
